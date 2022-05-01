@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_DEL/app/src/main/res/drawable/ic_delete.xml" value="0.27685185185185185" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_DEL/app/src/main/res/layout/activity_list.xml" value="0.3234375" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_DEL/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_DEL/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_LIST/app/src/main/res/layout/activity_list.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_LIST/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_LIST/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0425_LIST/app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T2/app/src/main/res/layout/activity_list.xml" value="0.3234375" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T2/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T2/app/src/main/res/layout/activity_update.xml" value="0.3333333333333333" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T3/app/src/main/res/layout/activity_add.xml" value="0.30364583333333334" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T3/app/src/main/res/layout/activity_jiwha_chat.xml" value="0.1" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T3/app/src/main/res/layout/activity_list.xml" value="0.3234375" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T3/app/src/main/res/layout/activity_main.xml" value="0.3234375" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T3/app/src/main/res/layout/activity_suhwa_list.xml" value="0.30364583333333334" />
+        <entry key="..\:/AndroideStudioFiles/sourcecode/PJ_0426_T3/app/src/main/res/layout/activity_update.xml" value="0.15" />
+        <entry key="..\:/FlutterProject/PJ_0425/app/src/main/res/layout/activity_list.xml" value="0.1" />
+        <entry key="..\:/FlutterProject/PJ_0425/app/src/main/res/layout/activity_main.xml" value="0.2611111111111111" />
+        <entry key="..\:/FlutterProject/PJ_0425/app/src/main/res/layout/activity_update.xml" value="0.3171603677221655" />
+        <entry key="..\:/FlutterProject/PJ_0425/app/src/main/res/layout/list_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
