@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arduino Nano 33 IoT BLE app!"
+        android:layout_alignParentBottom="true" />
+
+
+
+    <Button
+        android:id="@+id/btnOn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:text="on"
+        android:onClick="writeON"
+        />
+    <Button
+        android:id="@+id/btnOff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:text="off"
+        android:layout_below="@+id/btnOn"
+        android:onClick="writeOff"
+        />
+
+    <Button
+        android:id="@+id/btnRead"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"
+        android:text="Read"
+        android:layout_below="@+id/btnOff"
+        android:onClick="readON"
+        />
+
+
+    <ImageSwitcher
+        android:id="@+id/imageswitcher"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tvStatus"
+        android:layout_below="@+id/seek"
+        android:layout_marginTop="-1dp"
+        android:layout_marginBottom="1dp">
+
+    </ImageSwitcher>
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seek"
+        android:layout_below="@id/btnRead"
+        android:enabled="false"
+        />
+
+    <TextView
+        android:id="@+id/tvValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Read Value : 0"
+        android:layout_below="@id/seek"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>
